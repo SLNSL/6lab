@@ -1,0 +1,7 @@
+rootProject.name = '6_lab_gradle'
+
+include 'server'
+include 'client'
+include 'library'
+include 'client'
+
